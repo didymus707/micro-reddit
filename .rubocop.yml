@@ -7,8 +7,6 @@ AllCops:
     - "Rakefile"
     - "README.md"
     - "node_modules/**/*"
-    - "Gemfile"
-    - "test/**/**/*"
 
   DisplayCopNames: true
 
@@ -53,7 +51,7 @@ Layout/MultilineMethodCallIndentation:
 # Lint/RaiseException:
 #   Enabled: false
 # Lint/StructNewOverride:
-#   Enabled: false
+  # Enabled: false
 Style/HashEachMethods:
   Enabled: false
 Style/HashTransformKeys:
