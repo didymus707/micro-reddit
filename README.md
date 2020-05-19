@@ -1,4 +1,4 @@
-# README
+# Micro-Reddit
 
 This project is a very mini clone, maybe a very junior version of [Reddit.com](http://www.reddit.com) called micro-reddit. This project contains data structures necessary to support link submissions and commenting. A front-end was not built as at the time of building this app but you can use the Rails console to play around with models without the overhead of making HTTP requests and involving controllers or views.
 
@@ -8,6 +8,12 @@ This project is a very mini clone, maybe a very junior version of [Reddit.com](h
 - cd into the project folder eg `cd micro-reddit ` in your terminal
 - Install all dependencies by running ` bundle install`
 - Lastly open your rails console with ` rails console` to work on the models
+* Create users with: 
+>User.create(username: 'IJ')
+* Create Posts with: 
+>Post.create(user_id: 1, link: '..', body: '..')
+* Create Comments with: 
+>Comment.create(user_id: 1, post_id: '2' link: '..', body: '..')
 
 ## Built With
 
