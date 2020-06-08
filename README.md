@@ -31,7 +31,7 @@ This project is a very mini clone, maybe a very junior version of [Reddit.com](h
 
 ## Acknowledgements
 - [Microverse](https://www.microverse.org)
-- [TOP](https://www.theodinproject.com/courses/ruby-on-rails/lessons/forms)
+- [TOP](https://www.theodinproject.com/courses/ruby-on-rails/lessons/building-with-active-record-ruby-on-rails.)
 
 ## 🤝 Contributing
 
