@@ -19,6 +19,7 @@ This project is a very mini clone, maybe a very junior version of [Reddit.com](h
 
 - Ruby on Rails 6
 - Ruby
+- Visual Studio Code
 
 ## Authors
 
@@ -27,6 +28,10 @@ This project is a very mini clone, maybe a very junior version of [Reddit.com](h
 - Github: [@didymus707](https://github.com/didymus707)
 - Twitter: [@Didy707](https://twitter.com/didy707)
 - Linkedin: [linkedin](https://linkedin.com/adewale-thomas-orotayo)
+
+## Acknowledgements
+- [Microverse](https://www.microverse.org)
+- [TOP](https://www.theodinproject.com/courses/ruby-on-rails/lessons/forms)
 
 ## 🤝 Contributing
 
@@ -37,4 +42,5 @@ Feel free to check the [issues page](https://github.com/didymus707/Enumerable-Me
 ## Show your support
 
 Give a ⭐️ if you like or will like this project!
+
 
